@@ -1,21 +1,21 @@
-🛒 E-Commerce Customer & Revenue Analysis
-📌 Project Overview
+ E-Commerce Customer & Revenue Analysis
+ Project Overview
 This project analyzes an e-commerce dataset to evaluate revenue performance, customer behavior, geographic trends, and customer segmentation using the RFM framework.
 The objective is to generate actionable business insights that can improve customer retention, revenue growth, and long-term profitability.
-🎯 Business Objectives
+ Business Objectives
 Analyze overall revenue performance
 Measure customer acquisition vs retention
 Identify top-performing states and product categories
 Evaluate revenue concentration risk
 Segment customers using RFM analysis
 Provide strategic business recommendations
-📊 Key Metrics Analyzed
+ Key Metrics Analyzed
 Total Revenue: 15.4M
 Total Orders: 96,477
 Total Customers: 93,357
 Average Order Value (AOV): 159.86
 Repeat Customer Rate: Low (majority one-time buyers)
-📈 Key Insights
+ Key Insights
 1️⃣ Revenue Growth
 Monthly revenue trend shows consistent growth, indicating strong customer acquisition and scaling operations.
 2️⃣ Geographic Revenue Concentration
