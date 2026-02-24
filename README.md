@@ -1,3 +1,4 @@
+<img width="1660" height="944" alt="image" src="https://github.com/user-attachments/assets/71df00c3-a6d6-4fcf-8c6e-1950c1ae29f2" />
 #  E-Commerce Customer & Revenue Analysis
 
 ##  Project Overview
