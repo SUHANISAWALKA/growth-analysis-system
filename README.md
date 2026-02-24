@@ -1,5 +1,7 @@
 <img width="1666" height="940" alt="image" src="https://github.com/user-attachments/assets/e0e7d2ef-d92c-404e-915d-37813bd4f897" />
 
+https://app.powerbi.com/reportEmbed?reportId=fc2c872e-c72f-44ce-8a51-aad1edf0e23e&autoAuth=true&ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&actionBarEnabled=true
+
 #  E-Commerce Customer & Revenue Analysis
 
 ##  Project Overview
