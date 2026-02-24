@@ -16,7 +16,7 @@ Total Customers: 93,357
 Average Order Value (AOV): 159.86
 Repeat Customer Rate: Low (majority one-time buyers)
 Key Insights
-1️⃣ Revenue Growth
+1️⃣ Revenue Growth 
 Monthly revenue trend shows consistent growth, indicating strong customer acquisition and scaling operations.
 2️⃣ Geographic Revenue Concentration
 ~37% of total revenue comes from a single state (SP), indicating geographic dependency risk.
