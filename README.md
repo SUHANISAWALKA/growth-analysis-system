@@ -62,8 +62,10 @@ Findings indicate a large share of customers fall into low-frequency and at-risk
 - Pandas  
 - Matplotlib  
 - RFM Customer Segmentation  
-- Jupyter / Google Colab  
-
+- Jupyter / Google Colab
+-Power BI
+-DAX
+-Data Modeling
 ---
 
 ##  Business Recommendations
