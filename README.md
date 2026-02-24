@@ -48,3 +48,5 @@ Diversify geographic revenue by scaling marketing in high-potential states
 Leverage high-performing categories for cross-selling
 Implement personalized marketing campaigns using RFM segments
 Focus on increasing Customer Lifetime Value (CLV)
+
+Dataset Source: Olist Brazilian E-Commerce Public Dataset
